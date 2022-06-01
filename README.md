@@ -34,7 +34,7 @@ I am a fullstack student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: I solve problems on GeeksforGeeks in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-achaab-321b1216b)
 
 <!--
 **usfachab/usfachab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
